@@ -1,0 +1,13 @@
+export const MAX_PLAYERS = 8;
+export const PROMPT_SECONDS = 3;
+export const ANSWER_SECONDS = 60;
+export const REVEAL_SECONDS = 12;
+export const DISCUSSION_SECONDS = 90;
+export const VOTING_SECONDS = 45;
+export const RESULTS_SECONDS = 8;
+export const MIN_PLAYERS_TO_START = 3;
+export const MAX_NICKNAME_LENGTH = 16;
+export const MAX_CHAT_LENGTH = 120;
+export const MAX_ANSWER_LENGTH = 80;
+export const SESSION_STORAGE_KEY = "among-jose-session-v1";
+export const SOCKET_STORAGE_KEY = "among-jose-socket-token-v1";
